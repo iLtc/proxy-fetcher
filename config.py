@@ -43,7 +43,7 @@ PROXY_DEST = "proxy_list.txt"
 TEST_URL = "http://www.163.com"
 
 # 163的校验标识
-CHECK_MARK = "netease.com"
+CHECK_MARK = "127.net"
 
 # 测试代理超时时间
 TEST_TIMEOUT = 5
